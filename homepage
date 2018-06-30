@@ -1,0 +1,52 @@
+<!DOCTYPE>
+	<html lang="en">
+<head>
+
+<link href="https://fonts.googleapis.com/css?family=News+Cycle:400,700" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="photographywebsite.css"/>
+
+	<meta charset="utf-8">
+	
+<title>Hannah LaRay Photography</title>
+
+</head>
+<body>
+
+<a href="photographywebsite.html"><img src="logo.jpg" width="334" height="71" alt="logo" class="logo"/></a>
+
+
+<nav>
+	<ul>
+		<li><a href="mostrecent.html">Most Recent</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="investment.html">Investment</a></li>
+		<li><a href="contact.html">Contact</a></li>
+		<li><a href="faq.html">FAQ</a></li>
+	</ul>
+</nav>
+<br /><br /><br />
+<a href="photo-23.jpg" target="_blank"><img src="photo-23s.jpg" width="999" height="586" alt="main photo" class="main" /></a>
+
+
+<img src="featured.jpg" width="330" height="71" alt="featured work" class="featured" />
+
+<center><div class="pics">
+<a href="photo-3.jpg" target="_blank"><img src="photo-3s.jpg" width="160" height="240" alt="lyndi&kyle" /></a>
+<a href="photo-5.jpg" target="_blank"><img src="photo-5s.jpg" width="180" height="240" alt="alli1" /></a>
+<a href="photo-4.jpg" target="_blank"><img src="photo-4s.jpg" width="160" height="240" alt="lyndi&kyle" /></a>
+<a href="photo-2.jpg" target="_blank"><img src="photo-2s.jpg" width="160" height="240" alt="lyndi&kyle" /></a></div></center>
+
+
+<div class="insta"><a href="https://www.instagram.com/hannahlarayphotography/"><h3>instagram | @hannahlarayphoto</h3></a></div>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
